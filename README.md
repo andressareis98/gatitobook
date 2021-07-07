@@ -1,27 +1,63 @@
-# Gatitobook
+<h1 align="center">GatitoBook</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+# 📃 Sobre
 
-## Development server
+O projeto **GatitoBook** é uma rede social criada durante o curso **"Angular: Boas práticas em arquiteturas e formulários"** da **Alura**. O projeto teve como objetivo aprofundar os seguintes conhecimentos:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Modularização da aplicação;
+- Lazy loading;
+- Formulários do tipo template e reativo;
+- Validação de formulário: padrão, personalizado, síncrono e assíncrono;
+- Autenticação;
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# 💻 Tecnologias utilizadas
 
-## Build
+O projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular
+- Bootstrap
+- jwt-decode
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# 🔌 Como baixar o projeto
 
-## Running end-to-end tests
+<h3>Backend</h3>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Faça o [download completo do backend](https://github.com/alura-cursos/angular_formularios/archive/main.zip);
 
-## Further help
+2. Após descompactar a pasta, entre pela sua linha de comando na pasta api;
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3. Use o comando npm i, para instalar as dependências do back-end;
+
+4. Execute-o com o comando `npm start`
+
+<br>
+
+<h3>Frontend<h3>
+
+1. Faça o clone do projeto, através do comando
+
+```bash
+$ git clone https://github.com/andressareis98/gatitobook.git
+```
+
+2. Entre no repositório
+
+```bash
+$ cd gatitobook
+```
+
+3. Instale todas as dependências
+
+```bash
+$ npm install
+```
+
+4. Inicie o projeto
+
+```bash
+$ ng serve -o
+```
