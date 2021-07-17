@@ -2,13 +2,17 @@
 
 # 📃 Sobre
 
-O projeto **GatitoBook** é uma rede social criada durante o curso **"Angular: Boas práticas em arquiteturas e formulários"** da **Alura**. O projeto teve como objetivo aprofundar os seguintes conhecimentos:
+O projeto **GatitoBook** é uma rede social criada durante o curso **"Angular: Boas práticas em arquiteturas e formulários"** e **Angular: Controle o fluxo de navegação** da **Alura**. O projeto teve como objetivo aprofundar os seguintes conhecimentos:
 
 - Modularização da aplicação;
 - Lazy loading;
 - Formulários do tipo template e reativo;
 - Validação de formulário: padrão, personalizado, síncrono e assíncrono;
 - Autenticação;
+- Aplicação de classes de forma condicional utilizando [ngClass];
+- Guarda de rotas;
+- Interceptor;
+- Resolver;
 
 ---
 
