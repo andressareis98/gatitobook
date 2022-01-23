@@ -1,4 +1,4 @@
-<h1 align="center">GatitoBook</h1>
+<h1 align="center">GatitoBook 😺</h1>
 
 # 📃 Sobre
 
